@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Calc
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Calc\ ici.\r\n\r\n\ @author\ COLNOT\ Clemence\r\n\ @version\ 2021.10.01\r\n
+comment1.params=
+comment1.target=void\ expressions()
+comment1.text=\r\n\ expressions\r\n
+comment2.params=pX
+comment2.target=double\ racNeg(double)
+comment2.text=\r\n\ racine\ negative\r\n
+comment3.params=pX
+comment3.target=void\ afficheMoitie(int)
+comment3.text=\ \r\n\ affiche\ moitie\r\n\ @param\ entier\ positif\ \r\n\ Affiche\ le\ resultat\ de\ la\ division\ par\ deux\ successive\ \r\n
+comment4.params=pA\ pB
+comment4.target=boolean\ sontProches(double,\ double)
+comment4.text=\r\n\ sontProches\r\n\ @param\ deux\ reels\ \r\n\ @return\ boolean\r\n
+numComments=5

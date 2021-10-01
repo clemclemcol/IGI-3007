@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Utilisation
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Utilisation\ ici.\r\n\r\n\ @author\ COLNOT\ Clemence\r\n\ @version\ 2021.10.01\r\n
+comment1.params=
+comment1.target=void\ essai()
+comment1.text=\r\n\ essai\r\n
+comment2.params=pTab
+comment2.target=void\ affTab(int[])
+comment2.text=\r\n\ affTab\ ->\ affiche\ un\ tableau\ d'entier\ en\ param\u00E8tre\r\n\ @param\ tableau\ d'entiers\r\n
+comment3.params=pTab
+comment3.target=void\ affTabInv(int[])
+comment3.text=\r\n\ affTabInv\ ->\ affiche\ le\ tableau\ en\ param\u00E8tre\ \u00E0\ l'envers\r\n\ @param\ tableau\ d'entiers\r\n
+comment4.params=pTab
+comment4.target=void\ initTab(int[])
+comment4.text=\r\n\ initTab\ ->\ initialisation\ d'un\ tableau\ d'entiers\ contenant\ dans\ chaque\ case\ 2*Indice\r\n
+comment5.params=pTab
+comment5.target=int\ somme(int[])
+comment5.text=\r\n\ somme\ ->\ somme\ des\ valeurs\ d'un\ tableau\ en\ param\u00E8tre\r\n\ @param\ tableau\ d'entiers\r\n\ @return\ r\u00E9sultat\ somme\ des\ entiers\ du\ tableau\ en\ param\u00E8tre\r\n
+numComments=6
