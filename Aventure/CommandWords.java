@@ -40,10 +40,10 @@ public class CommandWords
      * Print all the valid commands
      */
     public String getCommandList(){
-        String vList = "";
-        for(String command : sValidCommands){
-            vList += command + " ";
+        StringBuilder vList = new StringBuilder();
+         for(int i = 0; i < sValidCommands.length; i++) {
+            vList.append( sValidCommands[i] + "  " );
         }
-        return vList;
+        return vList.toString();
     }
 } // CommandWords
